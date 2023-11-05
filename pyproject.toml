@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "roman-frontend-finally-master"
+version = "0.1.0"
+description = ""
+authors = ["EvgeniyShane <563tuk@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
